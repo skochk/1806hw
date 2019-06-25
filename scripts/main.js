@@ -1,10 +1,6 @@
-let a;
-let b;
-
-
 let calculator = {
-  firstValue: a,
-  secondValue: b,
+  firstValue: '',
+  secondValue: '',
   sum: function(){
     return this.firstValue + this.secondValue;
   },
