@@ -16,3 +16,17 @@ html, body{
     width: 400px;
     background-color: yellow;
 }
+
+.parent{
+    display: flex;
+}
+
+
+.number{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c4c4c4;
+}
